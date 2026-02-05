@@ -1,0 +1,7 @@
+{
+  "name": "Filament Inventory Sync",
+  "description": "Scan 3D printer filament labels and barcodes to automatically sync details with your inventory tracking system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
